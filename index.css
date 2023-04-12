@@ -17,4 +17,5 @@ h1{
 }
 ul{
  justify-content: center;
+ justify-items: auto;
 }
